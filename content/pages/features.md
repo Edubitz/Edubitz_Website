@@ -1,40 +1,31 @@
 ---
-title: Features
+title: Our Mission
 sections:
   - section_id: features
     type: section_content
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Our Mission
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We first started as a duo, teaching middle schoolers at our school. The rising demand in computer science jobs, and the importance of STEM proficiency in a modern society is why we wanted to ensure younger individuals of our generation have the capacity to appreciate sciences and engineering. 
 
+      Check out our video resources, as well as abundant educational oppotunities we display on our site. 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      If you have any questions, concerns, or comments, contact ncao2023@chadwickschool.org, or atsuboi2024@chadwickschool.org.
     actions:
-      - label: Free Trial
+      - label: 
         url: /signup
         style: primary
-      - label: View Demo
+      - label: 
         url: '#'
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Join us today!
+    subtitle: We have open positions from anyone who wants to maintain and update our website, to actually teaching students!
     actions:
-      - label: Get Started
+      - label: Contact us!
         url: '#'
         style: secondary
 seo:
