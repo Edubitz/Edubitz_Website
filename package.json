@@ -1,6 +1,6 @@
 {
   "name": "azimuth-nextjs",
-  "description": "A Stackbit Azimuth theme built with Next.js",
+  "description": "The official Edubitz site built with Next.js",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
