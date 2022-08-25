@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Innovative Education Free of Cost
+    title: STEM Education Free of Cost
     content: >-
-      Edubitz is a collaboration between two high school students who seek to spark interest in STEM; we believe in promoting eduction for all individuals.
+      Edubitz is a non-profit organization striving to offer engaging, hands-on STEM classes in a free and accessible manner.
     actions:
       - label: Learn More
         url: /features
@@ -98,14 +98,14 @@ sections:
   #   background: gray
   #   title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Edubitz
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Edubitz
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
@@ -117,7 +117,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Edubitz
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'

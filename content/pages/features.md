@@ -14,10 +14,10 @@ sections:
 
       If you have any questions, concerns, or comments, contact ncao2023@chadwickschool.org, or atsuboi2024@chadwickschool.org.
     actions:
-      - label: 
+      - label: Online Classes
         url: /signup
         style: primary
-      - label: 
+      - label: In-Person Events
         url: '#'
         style: secondary
   - section_id: call-to-action
