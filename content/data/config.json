@@ -14,22 +14,27 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Our Mission",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "About Us",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Curriculmn",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "In-Person Classes",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Contact Us",
                 "url": "/signup",
                 "style": "primary"
             }
