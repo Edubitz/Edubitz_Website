@@ -10,7 +10,7 @@ sections:
       Edubitz is a non-profit organization striving to offer engaging, hands-on STEM classes in a free and accessible manner.
     actions:
       - label: Learn More
-        url: /features
+        url: /mission
         style: primary
   - section_id: features
     type: section_features
@@ -26,7 +26,7 @@ sections:
           Sustainable, free, high-quality education, taught from the perspectives of high school students - students who have experienced and conquered modern education. 
         actions:
           - label: View Curriculumn
-            url: /features
+            url: /mission
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -38,7 +38,7 @@ sections:
           We offer free online classes every week alongside online learning material covering topics such as computer science, electronics, design, and more. 
         actions:
           - label: View Classes
-            url: /features
+            url: /mission
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -50,7 +50,7 @@ sections:
           We offer free, hands-on in-person STEM classes to schools located in the Los Angeles Area. If your school is interested, please check our availability and register for a session!
         actions:
           - label: Learn More
-            url: /features
+            url: /mission
             style: secondary
             has_icon: true
             icon: arrow-right
