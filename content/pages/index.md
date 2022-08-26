@@ -25,7 +25,7 @@ sections:
         content: >-
           Sustainable, free, high-quality education, taught from the perspectives of high school students - students who have experienced and conquered modern education. 
         actions:
-          - label: View Classes
+          - label: View Curriculumn
             url: /features
             style: secondary
             has_icon: true
@@ -35,11 +35,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We offer free online classes every week alongside online learning material covering topics such as computer science, electronics, design, and more. 
         actions:
-          - label: Learn More
+          - label: View Classes
             url: /features
             style: secondary
             has_icon: true
@@ -49,9 +47,7 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          We offer free, hands-on in-person STEM classes to schools located in the Los Angeles Area. If your school is interested, please check our availability and register for a session!
         actions:
           - label: Learn More
             url: /features
