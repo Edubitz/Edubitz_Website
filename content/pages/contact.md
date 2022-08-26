@@ -6,9 +6,7 @@ sections:
     background: gray
     title: Contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Please reach out to us if you have any questions regarding our classes, curriculmn, events, programs, or anything else.
     form_id: contactForm
     form_fields:
       - input_type: text
@@ -30,12 +28,6 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
     submit_label: Send Message
 seo:
   title: Contact
