@@ -1,28 +1,28 @@
 ---
-title: Style Guide
+title: In-Person Classes
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
+  The In-Person Classes provides you with a blueprint of default post and page styles.
+  The In-Person Classes is also a great reference for suggested typographic treatment
   and styles for your content.
 seo:
-  title: Style Guide
-  description: This is the style guide page
+  title: In-Person Classes
+  description: This is the In-Person Classes page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Style Guide
+      value: In-Person Classes
       keyName: property
     - name: 'og:description'
-      value: This is the style guide page
+      value: This is the In-Person Classes page
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Style Guide
+      value: In-Person Classes
     - name: 'twitter:description'
-      value: This is the style guide page
+      value: This is the In-Person Classes page
 layout: page
 ---
 
