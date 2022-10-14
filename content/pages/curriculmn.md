@@ -5,44 +5,46 @@ sections:
     type: section_pricing
     background: gray
     title: Curriculumn
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: We approach engineering through a multidimensional lens and teach STEM concepts through hands-on, interactive sessions
     pricing_plans:
-      - title: Basic
-        subtitle: For small businesses
-        price: $5/m
+      - title: Computer Science
+        subtitle: Learn to code and build applications and programs
+        price: comp-sci
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Learn to Code with Python
+          * Make Websites with HTML, CSS, and JS
+          * Cryptocurrencies and NFTs
+          * Using Version Control with Git
+          * Ethical Hacking
         actions:
-          - label: Order Now
+          - label: View Classes
             url: /signup
             style: secondary
-      - title: Professional
-        subtitle: For medium-sized businesses
-        price: $49/m
+      - title: Electronics
+        subtitle: Learn to build hardware and tinker with electronics
+        price: electronics
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
-        highlight: true
+          * Basic Solder
+          * PCB and Through-Hole Soldering
+          * Using Microcontrollers
+          * Create Breadboard Designs
+          * Introduction to Schematics
+          * Advanced Circutry Design with EasyEDA
+        highlight: false
         actions:
-          - label: Order Now
+          - label: View Classes
             url: /signup
-            style: primary
-      - title: Enterprise
-        subtitle: For very large businesses
-        price: $149/m
+            style: secondary
+      - title: Engineering & Design
+        subtitle: Understand the engineering process and share your work
+        price: engineering
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+          * Building and Coding Drones
+          * Graphic Design with Illustrator 
+          * Documenting and Advertsing your Work
+          * Making an Online Portfolio 
         actions:
-          - label: Order Now
+          - label: View Classes
             url: /signup
             style: secondary
 seo:

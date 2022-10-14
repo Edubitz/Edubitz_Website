@@ -287,9 +287,12 @@
 }
 
 .plan-price {
-  color: $gray-700;
+  color: red !important;
   font-weight: bold;
   font-size: 2.22222em;
+  width: 100px;
+  height: 100px;
+  margin: auto;
   margin-top: 0.5em;
 
   &:first-child {
