@@ -26,7 +26,7 @@ sections:
           Sustainable, free, high-quality education, taught from the perspectives of high school students - students who have experienced and conquered modern education. 
         actions:
           - label: View Curriculumn
-            url: /mission
+            url: /curriculmn
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -38,7 +38,7 @@ sections:
           We offer free online classes every week alongside online learning material covering topics such as computer science, electronics, design, and more. 
         actions:
           - label: View Classes
-            url: /mission
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -62,25 +62,21 @@ sections:
     subtitle: >-
       Here are the testimonials of students who participated in our class.
     reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+      - author: Helen
+        #avatar: images/review1.jpg
+        #avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
+          Whatever her testimonial was. 
+      - author: Sean
+        #avatar: images/review2.jpg
+        #avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+          Get a testimonial from him. 
+      - author: Kelly 
+        #avatar: images/review3.jpg
+        #avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Get a testimonial from her. 
   # - section_id: faq
   #   type: section_faq
   #   background: gray

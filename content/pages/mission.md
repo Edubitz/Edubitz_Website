@@ -4,22 +4,22 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/collage(3).jpg
     image_alt: App preview on a phone and tablet
     title: Our Mission
     content: >-
       We first started as a duo, teaching middle schoolers at our school. The rising demand in computer science jobs, and the importance of STEM proficiency in a modern society is why we wanted to ensure younger individuals of our generation have the capacity to appreciate sciences and engineering. 
 
-      Check out our video resources, as well as abundant educational oppotunities we display on our site. 
+      Check out our video resources, as well as abundant educational oppotunities we display on our site. Our curriculum spans from programming microcontrollers, to ethical hacking!
 
       If you have any questions, concerns, or comments, contact ncao2023@chadwickschool.org, or atsuboi2024@chadwickschool.org.
-    actions:
-      - label: Online Classes
-        url: /signup
-        style: primary
-      - label: In-Person Events
-        url: '#'
-        style: secondary
+    #actions:
+     # - label: Online Classes
+      #  url: /signup
+       # style: primary
+      #- label: In-Person Events
+       # url: '#'
+        #style: secondary
   - section_id: call-to-action
     type: section_cta
     title: Join us today!

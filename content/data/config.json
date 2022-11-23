@@ -1,10 +1,10 @@
 {
-    "title": "Azimuth",
+    "title": "Edubitz",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/image1.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -24,8 +24,8 @@
                 "style": "link"
             },
             {
-                "label": "Curriculmn",
-                "url": "/curriculmn",
+                "label": "Curriculumn",
+                "url": "/curriculumn",
                 "style": "link"
             },
             {
