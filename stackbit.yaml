@@ -51,16 +51,14 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-          The base URL of this site. Useful for sites hosted under specific
-          path, e.g.: https://www.example.com/my-site/
+          https://edubitz.org/
         required: true
         hidden: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+          https://edubitz.org/
       - type: image
         name: favicon
         label: Favicon
