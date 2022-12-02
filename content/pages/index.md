@@ -121,7 +121,7 @@ sections:
   #   title: Latest Posts
 seo:
   title: Edubitz
-  description: The preview of the Azimuth theme
+  description: Edubitz is a non-profit organization striving to offer engaging, hands-on STEM classes in a free and accessible manner.
   extra:
     - name: 'og:type'
       value: website
@@ -130,20 +130,11 @@ seo:
       value: Edubitz
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Edubitz is a non-profit organization striving to offer engaging, hands-on STEM classes in a free and accessible manner.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/icon.png
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Edubitz
-    - name: 'twitter:description'
-      value: The preview of the Azimuth theme
-    - name: 'twitter:image'
-      value: images/hero.png
       relativeUrl: true
 layout: landing
 ---
