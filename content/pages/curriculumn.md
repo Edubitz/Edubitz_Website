@@ -16,10 +16,10 @@ sections:
           * Cryptocurrencies and NFTs
           * Using Version Control with Git
           * Ethical Hacking
-        actions:
-          - label: View Classes
-            url: /signup
-            style: secondary
+        # actions:
+        #   - label: View Classes
+        #     url: /signup
+        #     style: secondary
       - title: Electronics
         subtitle: Learn to build hardware and tinker with electronics
         price: electronics
@@ -31,10 +31,10 @@ sections:
           * Introduction to Schematics
           * Advanced Circutry Design with EasyEDA
         highlight: false
-        actions:
-          - label: View Classes
-            url: /signup
-            style: secondary
+        # actions:
+        #   - label: View Classes
+        #     url: /signup
+        #     style: secondary
       - title: Engineering & Design
         subtitle: Understand the engineering process and share your work
         price: engineering
@@ -43,10 +43,10 @@ sections:
           * Graphic Design with Illustrator 
           * Documenting and Advertsing your Work
           * Making an Online Portfolio 
-        actions:
-          - label: View Classes
-            url: /signup
-            style: secondary
+        # actions:
+        #   - label: View Classes
+        #     url: /signup
+        #     style: secondary
 seo:
   title: Pricing
   description: This is the pricing page
