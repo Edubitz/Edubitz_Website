@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Curriculumn
+    title: Curriculum
     subtitle: We approach engineering through a multidimensional lens and teach STEM concepts through hands-on, interactive sessions
     pricing_plans:
       - title: Computer Science

@@ -19,14 +19,14 @@ sections:
     subtitle: >-
       Seeking the endless possibilities in STEM and education. 
     features:
-      - title: STEM Curriculumn
+      - title: STEM Curriculum
         image: images/2.png
         image_alt: App preview on a phone and tablet
         content: >-
           Sustainable, free, high-quality education, taught from the perspectives of high school students - students who have experienced and conquered modern education. 
         actions:
-          - label: View Curriculumn
-            url: /curriculmn
+          - label: View Curriculum
+            url: /curriculum
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -62,21 +62,21 @@ sections:
     subtitle: >-
       Here are the testimonials of students who participated in our class.
     reviews:
-      - author: Helen
+      - author: Sean C.
         #avatar: images/review1.jpg
         #avatar_alt: Eric Widget's photo
         content: >-
-          Whatever her testimonial was. 
-      - author: Sean
+          I had a ton of fun with this class and learned a lot about coding and electronics. Both of the teachers were amazing and came to class with goals in mind and always something new to teach. I also had a lot of fun learning how to solder and it's many uses. Overall, it was a great experience with the teachers and subject mater and I would do it again if I could.
+      - author: Helen T.
         #avatar: images/review2.jpg
         #avatar_alt: Parsley Montana's photo
         content: >-
-          Get a testimonial from him. 
-      - author: Kelly 
+          I thought the projects in this class were really unique and fun. My favorite project overall was Ethical hacking as I thought it was a creative approach to a topic that I wasn't familiar with. 
+      - author: Matthew G.
         #avatar: images/review3.jpg
         #avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Get a testimonial from her. 
+         I really liked this course because it was fun and helped me gain an understanding of crypto and technology. 
   # - section_id: faq
   #   type: section_faq
   #   background: gray

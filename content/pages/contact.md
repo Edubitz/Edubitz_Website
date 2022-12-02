@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contact
     content: >-
-      Please reach out to us if you have any questions regarding our classes, curriculmn, events, programs, or anything else.
+      Please reach out to us if you have any questions regarding our classes, curriculum, events, programs, or anything else.
     form_id: contactForm
     form_fields:
       - input_type: text
