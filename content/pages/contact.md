@@ -7,28 +7,28 @@ sections:
     title: Contact
     content: >-
       Please reach out to us if you have any questions regarding our classes, curriculum, events, programs, or anything else.
-    form_id: contactForm
-    form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
-      - input_type: textarea
-        name: message
-        label: Message
-    submit_label: Send Message
+    # form_id: contactForm
+    # form_fields:
+    #   - input_type: text
+    #     name: name
+    #     label: Name
+    #     is_required: true
+    #   - input_type: email
+    #     name: email
+    #     label: Email
+    #     is_required: true
+    #   - input_type: select
+    #     name: subject
+    #     label: Subject
+    #     default_value: Please select
+    #     options:
+    #       - Error on the site
+    #       - Sponsorship
+    #       - Other
+    #   - input_type: textarea
+    #     name: message
+    #     label: Message
+    # submit_label: Send Message
 seo:
   title: Contact
   description: This is the contact page

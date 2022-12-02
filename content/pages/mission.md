@@ -26,7 +26,7 @@ sections:
     subtitle: We have open positions from anyone who wants to maintain and update our website, to actually teaching students!
     actions:
       - label: Contact us!
-        url: '#'
+        url: '/contact'
         style: secondary
 seo:
   title: Features

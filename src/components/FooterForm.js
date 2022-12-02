@@ -39,7 +39,7 @@ export default class FooterForm extends React.Component {
                             <FormField field={field} hideLabels={hideLabels} />
                         </div>
                     ))}
-                    {submitLabel && (
+                    {(submitLabel && submitLabel.length > 0) && (
                         <div className="form-row">
                             <button type="submit" className="button">
                                 {submitLabel}
