@@ -1,9 +1,9 @@
 ---
 title: In-Person Classes
+image: images/collage(3).jpg
+image_alt: Nathan and Angelina talking to the class
 subtitle: >-
-  The In-Person Classes provides you with a blueprint of default post and page styles.
-  The In-Person Classes is also a great reference for suggested typographic treatment
-  and styles for your content.
+  We offer free, hands-on in-person STEM classes to schools located in the Los Angeles Area. If your school is interested, please check our availability and register for a session by contacting us!
 seo:
   title: In-Person Classes
   description: This is the In-Person Classes page
@@ -26,7 +26,7 @@ seo:
 layout: page
 ---
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+<!-- **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 # This is an H1
 
@@ -75,7 +75,7 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
 ```
-<!-- Some example CSS code -->
+
 body {
   color:red;
 }
@@ -103,4 +103,4 @@ body {
       <td>Footer content 2</td>
     </tr>
   </tfoot>
-</table>
+</table> -->

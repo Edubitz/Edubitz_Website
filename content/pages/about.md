@@ -4,7 +4,7 @@ title: About Us
 #  This is an optional subtitle. It can be used to describe what this page is
 #  about.
 image: images/644B2515.jpg
-image_alt: Team members in a conference room
+image_alt: Nathan and Angelina talking to the class
 seo:
   title: About Us
   description: This is the about page
@@ -34,4 +34,4 @@ seo:
 layout: page
 ---
 
-Edubitz is an organization seeking to promote STEM education. We run a middel school extracurricular program at Chadwick School, hoping to expose younger audiences to the exhilarating world at STEM. In the future, we look to expand our organization to LAUSD. 
+Edubitz is an organization seeking to promote STEM education created by Angelina Tsuboi and Nathan Cao. We run a middle school extracurricular program at Chadwick School, hoping to expose younger audiences to the exhilarating world at STEM. In the future, we look to expand our organization to LAUSD. 

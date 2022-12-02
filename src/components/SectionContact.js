@@ -49,11 +49,11 @@ export default class SectionContact extends React.Component {
                                 <FormField field={field} hideLabels={hideLabels} />
                             </div>
                         ))}
-                        <div className="form-row form-submit">
+                        {/* <div className="form-row form-submit">
                             <button type="submit" className="button">
                                 {submitLabel}
                             </button>
-                        </div>
+                        </div> */}
                     </form>
                 </div>
             </section>

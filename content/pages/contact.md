@@ -7,6 +7,8 @@ sections:
     title: Contact
     content: >-
       Please reach out to us if you have any questions regarding our classes, curriculum, events, programs, or anything else.
+
+      You can contact atsuboi2024@chadwickschool.org or ncao2023@chadwickschool.org
     # form_id: contactForm
     # form_fields:
     #   - input_type: text

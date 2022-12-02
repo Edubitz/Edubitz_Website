@@ -23,7 +23,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Join us today!
-    subtitle: We have open positions from anyone who wants to maintain and update our website, to actually teaching students!
+    subtitle: We have open positions to anyone who wants to help teach students, develop the curriculum, and plan events!
     actions:
       - label: Contact us!
         url: '/contact'
